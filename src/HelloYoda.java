@@ -1,7 +1,7 @@
 public class HelloYoda {
     /**
      * Returns a String containing a Yoda ASCII art and quote.
-     *
+     * Evan Zufah, August 25th, 2022
      * @return Yoda Face and Quote as a String.
      */
     static String yoda() {
